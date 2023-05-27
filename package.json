@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html",
-    "sass:watch": "sass --watch ./src/scss:dist/css"
+    "basic:dev": "parcel basic/src/index.html",
+    "basic:build": "parcel build basic/src/index.html",
+    "sass:watch": "sass --watch ./basic/src/scss:dist/css"
   },
   "keywords": [],
   "author": "",

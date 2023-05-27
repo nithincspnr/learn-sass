@@ -1,0 +1,9 @@
+@use 'colors';
+
+body {
+    background: colors.$red;
+}
+
+.btn {
+    padding: 20px;
+}
